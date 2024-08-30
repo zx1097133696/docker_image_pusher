@@ -4,5 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-xprobe/xinference
---platform=x86
+nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
